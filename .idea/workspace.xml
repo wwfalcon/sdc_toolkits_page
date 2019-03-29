@@ -79,6 +79,7 @@
       <workItem from="1553068410514" duration="7651000" />
       <workItem from="1553133997910" duration="3698000" />
       <workItem from="1553569186169" duration="4000" />
+      <workItem from="1553840311722" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1553068557977</created>
@@ -213,16 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553232259236</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="clear ebook content">
+      <created>1553840366865</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1553840366865</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11353000" />
+    <option name="totallyTimeSpent" value="12204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38751346" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.393972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -255,7 +263,8 @@
     <MESSAGE value="fix link by ```gatsby build --prefix-paths```" />
     <MESSAGE value="revert ebook content" />
     <MESSAGE value="SITE_URL bug fix for online web page markup tools" />
-    <option name="LAST_COMMIT_MESSAGE" value="SITE_URL bug fix for online web page markup tools" />
+    <MESSAGE value="clear ebook content" />
+    <option name="LAST_COMMIT_MESSAGE" value="clear ebook content" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md" />
