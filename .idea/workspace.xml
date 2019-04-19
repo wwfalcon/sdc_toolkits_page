@@ -1,7 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e62daff-459d-4255-81e5-6867268b49da" name="Default Changelist" comment="" />
+    <list default="true" id="7e62daff-459d-4255-81e5-6867268b49da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/component---src-templates-markdown-post-js-c022d4706db21ae19db2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component---src-templates-markdown-post-js-c022d4706db21ae19db2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-runtime-4a87a579e098559abbc5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-runtime-4a87a579e098559abbc5.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/How_will_you_distribute_your_product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/How_will_you_distribute_your_product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/How_will_you_price_your_product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/How_will_you_price_your_product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/What_are_you_selling_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/What_are_you_selling_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/What_value_do_you_provide_your_customers_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/What_value_do_you_provide_your_customers_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/Who_are_you_selling_to_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/Who_are_you_selling_to_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/a-simple-marketing-plan-for-startups_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/a-simple-marketing-plan-for-startups_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/blanks-customer-discovery-method-part-1-the-customer-development-model-in-value-proposition_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/blanks-customer-discovery-method-part-1-the-customer-development-model-in-value-proposition_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/business-models_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/business-models_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/buyer-motivation-what-moves-your-target-customers-to-purchase-your-product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/buyer-motivation-what-moves-your-target-customers-to-purchase-your-product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/buyer-personas_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/buyer-personas_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/competitive-differentiation_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/competitive-differentiation_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/competitive-strategies-in-operational-excellence-customer-intimacy-and-product-leadership_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/competitive-strategies-in-operational-excellence-customer-intimacy-and-product-leadership_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/deciding-which-market-problems-to-solve_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/deciding-which-market-problems-to-solve_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/defining-your-competitive-edge_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/defining-your-competitive-edge_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/determining-the-product-release_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/determining-the-product-release_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/developing-your-value-proposition-an-overview-of-customer-discovery_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/developing-your-value-proposition-an-overview-of-customer-discovery_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/elements-of-a-products-value-proposition-functional-self-expressive-and-emotional-benefits_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/elements-of-a-products-value-proposition-functional-self-expressive-and-emotional-benefits_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-market-problems_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-market-problems_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-target-customer-segments-to-focus-your-marketing-resources_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-target-customer-segments-to-focus-your-marketing-resources_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-target-customers-for-a-social-enterprise_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-target-customers-for-a-social-enterprise_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/inputs-to-product-roadmaps_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/inputs-to-product-roadmaps_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/interviewing-potential-users_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/interviewing-potential-users_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/intro-to-product-roadmaps-date-based-theme-based-and-technology_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/intro-to-product-roadmaps-date-based-theme-based-and-technology_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/marketing-communication-to-early-adopters-of-technology-products_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/marketing-communication-to-early-adopters-of-technology-products_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/marketing-strategy-for-startup-success-identifying-and-understanding-your-target-customer-and-market-segments_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/marketing-strategy-for-startup-success-identifying-and-understanding-your-target-customer-and-market-segments_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/positioning-creating-an-image-of-your-product-in-your-target-customers-mind_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/positioning-creating-an-image-of-your-product-in-your-target-customers-mind_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/prioritizing-your-product-roadmap_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/prioritizing-your-product-roadmap_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/product-positioning-and-positioning-your-startup-customer-validation-stage_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/product-positioning-and-positioning-your-startup-customer-validation-stage_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/product-strategy-setting-your-strategic-vision-for-product-offerings_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/product-strategy-setting-your-strategic-vision-for-product-offerings_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/strategic-planning-product-differentiation-strategy-and-market-type_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/strategic-planning-product-differentiation-strategy-and-market-type_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/strategy-statement-articulating-your-competitive-advantage-objectives-and-scope_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/strategy-statement-articulating-your-competitive-advantage-objectives-and-scope_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/successful-market-communication-across-the-chasm-and-in-the-bowling-alley_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/successful-market-communication-across-the-chasm-and-in-the-bowling-alley_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/technology-adoption-lifecycle-talc_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/technology-adoption-lifecycle-talc_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-customer-development-model-cdm-product-development-and-technology-startups_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-customer-development-model-cdm-product-development-and-technology-startups_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-four-types-of-market-market-maturity-where-does-your-startups-product-belong_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-four-types-of-market-market-maturity-where-does-your-startups-product-belong_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-marketing-mix-in-marketing-strategy-product-price-place-and-promotion_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-marketing-mix-in-marketing-strategy-product-price-place-and-promotion_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-mdsc-market-development-strategy-checklist-providing-strategic-direction-for-startups-go-to-market-programs_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-mdsc-market-development-strategy-checklist-providing-strategic-direction-for-startups-go-to-market-programs_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/thought-leadership-as-a-tech-startup-strategy_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/thought-leadership-as-a-tech-startup-strategy_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/understanding-the-cost-of-product-requirements_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/understanding-the-cost-of-product-requirements_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/user-personas_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/user-personas_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/using-your-product-roadmap-effectively_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/using-your-product-roadmap-effectively_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/validating-inputs-to-product-roadmaps_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/validating-inputs-to-product-roadmaps_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/value-proposition-a-reflection-of-the-relationship-between-your-customer-and-brand_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/value-proposition-a-reflection-of-the-relationship-between-your-customer-and-brand_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/your-marketing-message-a-tech-startups-key-tool-to-reach-target-customers_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/your-marketing-message-a-tech-startups-key-tool-to-reach-target-customers_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/your-tech-product-pricing-and-product-positioning-in-the-marketing-mix_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/your-tech-product-pricing-and-product-positioning-in-the-marketing-mix_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch001/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch002/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch002/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch003/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch003/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch004/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch004/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch004_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch004_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch005/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch005/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch006/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch006/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch007/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch007/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch008/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch008/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch009/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch009/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch010/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch010/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch011/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch011/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch012/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ebooks/mba_market_marketing/ch012/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.stats.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -81,7 +155,7 @@
       <workItem from="1553569186169" duration="4000" />
       <workItem from="1553840311722" duration="1113000" />
       <workItem from="1555494454691" duration="2338000" />
-      <workItem from="1555585558236" duration="5955000" />
+      <workItem from="1555585558236" duration="6875000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1553068557977</created>
@@ -328,15 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555657198257</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update ebooks index and content">
+      <created>1555657966678</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1555657966678</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20759000" />
+    <option name="totallyTimeSpent" value="21679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40688914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
