@@ -2,7 +2,576 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e62daff-459d-4255-81e5-6867268b49da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1-557295985c988ad7078e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-557295985c988ad7078e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component---src-pages-index-js-95510f3be03f233a4d30.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component---src-pages-index-js-95510f3be03f233a4d30.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component---src-templates-markdown-post-js-fe735b3315563be402e7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component---src-templates-markdown-post-js-fe735b3315563be402e7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch001/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch004/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch011/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch020/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch027/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch028/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch036/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch043/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch044/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch051/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch057/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch058/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch067/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch073/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch074/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch083/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch089/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch098/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch099/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch106/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch114/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch121/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch122/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch132/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch139/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch140/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch147/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch156/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch164/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch174/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch184/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch194/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch195/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch196/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch198/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch199/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch201/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch202/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch205/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch206/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch207/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch208/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch209/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch210/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch211/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch212/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch213/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch214/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch215/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch216/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch217/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch218/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch219/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch220/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch221/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch222/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch223/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch224/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch225/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch226/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch227/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/ch228/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_marketing_mgt/title_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch001/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch002/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch003/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch004/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch004_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch005/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch006/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch007/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch008/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch009/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch010/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch011/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebooks_mba_market_marketing/ch012/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages-manifest-165401613649256c0b43.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages-manifest-165401613649256c0b43.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/063f5/file16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/0b121/file16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/1c864/file16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/1ed7e/file16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/3a072/file16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/4dd9a/file16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/74922/file16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/a23fd/file16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/a5a3c/file16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0cd0091f662111a24dff3d367cd3b007/f1ac9/file16.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/2eec4/Evidence.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/4f487/Evidence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/63a7c/Evidence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/7e192/Evidence.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/a2054/Evidence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/0d4b0294612cf85938c8df742675b0b3/beed6/Evidence.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/034ef/competitive-strategies-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/116f7/competitive-strategies-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/59fd5/competitive-strategies-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/5e27a/competitive-strategies-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/9a942/competitive-strategies-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/9c1cd/competitive-strategies-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/bc0ed/competitive-strategies-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/d19d2/competitive-strategies-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/d1e75/competitive-strategies-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1369fdebb8f1096b90bb698ebc21693e/e5b2b/competitive-strategies-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/063f5/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/0b121/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/3a072/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/3ebf9/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/4dd9a/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/6e7ea/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/74922/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/934dc/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/a23fd/file2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/a5a3c/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/c8c90/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/15e10f15b899ee229de09099823dd594/f1ac9/file2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/034ef/strategy-canvas-of-southwest-airlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/59fd5/strategy-canvas-of-southwest-airlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/5e27a/strategy-canvas-of-southwest-airlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/6e32c/strategy-canvas-of-southwest-airlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/9afec/strategy-canvas-of-southwest-airlines.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/9c1cd/strategy-canvas-of-southwest-airlines.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/bc0ed/strategy-canvas-of-southwest-airlines.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/160dc89895fbd96cb76f409768b69a36/d19d2/strategy-canvas-of-southwest-airlines.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/063f5/file5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/0b121/file5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/1c864/file5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/1ed7e/file5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/3a072/file5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/4dd9a/file5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/74922/file5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/a23fd/file5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/a5a3c/file5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1729d7bae5d06813ad4bd4ab5ae4d6c3/f1ac9/file5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/034ef/hierarchy-of-company-rev2-1024x596.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/59fd5/hierarchy-of-company-rev2-1024x596.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/5e27a/hierarchy-of-company-rev2-1024x596.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/9c1cd/hierarchy-of-company-rev2-1024x596.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/a3258/hierarchy-of-company-rev2-1024x596.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/bc0ed/hierarchy-of-company-rev2-1024x596.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/d19d2/hierarchy-of-company-rev2-1024x596.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/d1e75/hierarchy-of-company-rev2-1024x596.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/e5b2b/hierarchy-of-company-rev2-1024x596.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2ecc9af5061a3cecbc58772f9371b0b1/f7206/hierarchy-of-company-rev2-1024x596.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/44450/product-strategy-2_20180601.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/66fc0/product-strategy-2_20180601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/a6f14/product-strategy-2_20180601.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/ad8de/product-strategy-2_20180601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/c2154/product-strategy-2_20180601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/31f274961254a46fbe738ef900371057/c26bc/product-strategy-2_20180601.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/063f5/file17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/0b121/file17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/1c864/file17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/1ed7e/file17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/3a072/file17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/4dd9a/file17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/74922/file17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/a23fd/file17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/a5a3c/file17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3316e5221f6aa0ab4384190078ab57d4/f1ac9/file17.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/034ef/identifying-market-problems_20180601-3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/0c0bc/identifying-market-problems_20180601-3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/59fd5/identifying-market-problems_20180601-3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/5e27a/identifying-market-problems_20180601-3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/9c1cd/identifying-market-problems_20180601-3-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/bc0ed/identifying-market-problems_20180601-3-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/d19d2/identifying-market-problems_20180601-3-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3a0ddad58728f6f899957dbc9a63fb95/ebda0/identifying-market-problems_20180601-3-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/063f5/file0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/0b121/file0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/1c864/file0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/1ed7e/file0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/3a072/file0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/4dd9a/file0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/74922/file0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/a23fd/file0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/a5a3c/file0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/43310afc0711d6a04e2b3fb6225233f0/f1ac9/file0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/063f5/file12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/0b121/file12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/1c864/file12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/1ed7e/file12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/3a072/file12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/4dd9a/file12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/74922/file12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/a23fd/file12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/a5a3c/file12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/51cfef74743c2d6a0d83ca68ec54fc5c/f1ac9/file12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/063f5/file10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/0b121/file10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/1c864/file10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/1ed7e/file10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/3a072/file10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/4dd9a/file10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/74922/file10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/a23fd/file10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/a5a3c/file10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6171a4a381320c9b4e4c252f904bc45b/f1ac9/file10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/034ef/product_roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/25f80/product_roadmap.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/3fe8d/product_roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/59fd5/product_roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/5e27a/product_roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/9c1cd/product_roadmap.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/bc0ed/product_roadmap.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/d19d2/product_roadmap.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/d1e75/product_roadmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6428e516fc0ca42baf89c36a7f696458/e5b2b/product_roadmap.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/034ef/elements-of-products-value_20180603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/0def5/elements-of-products-value_20180603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/59fd5/elements-of-products-value_20180603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/5e27a/elements-of-products-value_20180603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/816ef/elements-of-products-value_20180603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/9c1cd/elements-of-products-value_20180603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/bc0ed/elements-of-products-value_20180603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/d19d2/elements-of-products-value_20180603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/d1e75/elements-of-products-value_20180603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6a26475aa70eea6390f873b68543b6ee/e5b2b/elements-of-products-value_20180603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/063f5/file9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/0b121/file9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/1c864/file9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/1ed7e/file9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/3a072/file9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/4dd9a/file9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/74922/file9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/a23fd/file9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/a5a3c/file9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6ee538cedff7d2e1de10ca7adf522c52/f1ac9/file9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/034ef/MarCom_Positioning-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/090b2/MarCom_Positioning-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/59fd5/MarCom_Positioning-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/5e27a/MarCom_Positioning-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/7c7dd/MarCom_Positioning-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/9c1cd/MarCom_Positioning-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/bc0ed/MarCom_Positioning-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/d19d2/MarCom_Positioning-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/d1e75/MarCom_Positioning-rev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7099d4569a83e963f24a0368cdb8f9d2/e5b2b/MarCom_Positioning-rev1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/034ef/Business_models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/0e86a/Business_models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/59fd5/Business_models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/5e27a/Business_models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/90714/Business_models.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/9c1cd/Business_models.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/bc0ed/Business_models.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/d19d2/Business_models.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/d1e75/Business_models.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/81934ea67d18324ed80e2595b214c34d/e5b2b/Business_models.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/063f5/file3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/0b121/file3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/1c864/file3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/1ed7e/file3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/3a072/file3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/4dd9a/file3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/74922/file3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/a23fd/file3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/a5a3c/file3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/82ee5057fc07cbacd32daa97ed80f848/f1ac9/file3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/063f5/file7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/0b121/file7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/1c864/file7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/1ed7e/file7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/3a072/file7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/4dd9a/file7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/74922/file7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/a23fd/file7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/a5a3c/file7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9171b1ef7e71e6ddf58547fa86486aac/f1ac9/file7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/034ef/Elements-of-a-strategy-statement_20171108-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/116f7/Elements-of-a-strategy-statement_20171108-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/59fd5/Elements-of-a-strategy-statement_20171108-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/5e27a/Elements-of-a-strategy-statement_20171108-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/9a942/Elements-of-a-strategy-statement_20171108-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/9c1cd/Elements-of-a-strategy-statement_20171108-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/bc0ed/Elements-of-a-strategy-statement_20171108-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/d19d2/Elements-of-a-strategy-statement_20171108-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/d1e75/Elements-of-a-strategy-statement_20171108-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/956901639f326249366e8d2061776e36/e5b2b/Elements-of-a-strategy-statement_20171108-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/034ef/article-8-rev1-1024x531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/59fd5/article-8-rev1-1024x531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/5e27a/article-8-rev1-1024x531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/9c1cd/article-8-rev1-1024x531.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/aef21/article-8-rev1-1024x531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/bc0ed/article-8-rev1-1024x531.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/d19d2/article-8-rev1-1024x531.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/d1e75/article-8-rev1-1024x531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/e23b1/article-8-rev1-1024x531.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9db8c05b04295ffa952931755ce20216/e5b2b/article-8-rev1-1024x531.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/034ef/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/59fd5/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/5dac4/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/5e27a/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/6977a/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/8f15c/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/9c1cd/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/bc0ed/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/c57c3/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/d19d2/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/d1e75/TALC1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/c4d497887e881fa331276cb055cd1899/e5b2b/TALC1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/12/path---ebooks-marketing-mgt-ch-199-033-616-EJ9P1z974HOXETGspP7rHvMS4So.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/129/path---ebooks-marketing-mgt-ch-114-bc-9-930-5XwdSJkGMX4z3qxhV8EZeLpR3cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/144/path---ebooks-marketing-mgt-ch-011-084-bd9-PddrrjQ7W56FFosUa6wm2f9390.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/145/path---ebooks-marketing-mgt-ch-139-9-cb-f18-uAlC1UUOG0BQBeH3ka8oN0k2AxI.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/148/path---ebooks-marketing-mgt-ch-212-fca-3fb-1ScJkKYGjCU8HX9JA5OEnG9PJk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/152/path---ebooks-marketing-mgt-ch-044-a-56-1e2-9YqJllLV2CBh28DgFHKkstRDuEA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/162/path---ebooks-marketing-mgt-ch-004-ba-6-d65-KAlM79x9XzYNYQC194A2k4sWiQ4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/165/path---ebooks-marketing-mgt-ch-208-dc-3-621-L9HASDFasCkETiGgSBosPZIAk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/166/path---ebooks-marketing-mgt-ch-223-fac-5f0-XdBVJJPF7haN4Jqv0ONn7vJDc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/168/path---ebooks-marketing-mgt-ch-195-d-7-d-255-WDsRtPMKNpUaPx6eJ1bLR0TAYQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/181/path---ebooks-marketing-mgt-ch-220-8-c-6-0bd-RE5Vme0k2FniN4MxV1R7MKsDw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/19/path---ebooks-mba-market-marketing-ch-001-4-bd-b14-ouViEVGoeMkYGVATrl9BRsz2GWA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/219/path---ebooks-marketing-mgt-ch-074-a-21-4df-Yu94ySMWyOMrL9gScBO3NnasvN0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/251/path---ebooks-marketing-mgt-ch-051-f-18-03c-0ZSA61GXBgUZqTxOcsix5lws.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/252/path---ebooks-mba-market-marketing-ch-006-477-d43-WUoeOGNoVbUnjTwK9RaclxuD8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/253/path---ebooks-marketing-mgt-ch-213-0-aa-69b-AuQ4yGxENbBsb8KHCAN6FsqZytE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/258/path---ebooks-marketing-mgt-ch-211-759-d08-ih8UGvMSd3gRRNGZq1Y4wi8se5A.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/26/path---ebooks-marketing-mgt-ch-089-027-2d9-bPoR2oskGomM7a0DZix6oapm00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/294/path---ebooks-marketing-mgt-ch-083-ee-9-0bc-J9n0tyZdAsI6VCEqFME8yJSvwuU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/339/path---ebooks-mba-market-marketing-ch-004-2-c-8-04c-sclefVDMgcSU0hiuJjmYjFMe9M.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/341/path---ebooks-marketing-mgt-ch-216-1-e-0-ab7-gNExX0PwjkwoF2UaioN4ROfPOBo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/363/path---ebooks-mba-market-marketing-ch-012-815-b48-3QMe1SNCYXMEwod0r45RTsI2MeU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/365/path---ebooks-marketing-mgt-ch-205-5-eb-688-8hW91nMuiig4tfeYMSNRDrPZ7g.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/370/path---ebooks-marketing-mgt-ch-227-be-7-6fc-IVuSbY2p2h6lYJK8fLh1CNg3wHw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/386/path---ebooks-marketing-mgt-ch-132-436-989-ElzCADjZHK5aOl09mY5vVe6HVA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/386/path---ebooks-marketing-mgt-ch-218-ad-3-a08-xmTV8eyKUnh03eyoL28Ar8sEjYY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/394/path---ebooks-marketing-mgt-ch-156-f-39-ffd-QAMMQXmXteesZgElix7UBvaaE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/407/path---ebooks-marketing-mgt-ch-217-d-31-61c-sgTct9M1XZMxNdT71AIAhODAs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/411/path---ebooks-marketing-mgt-ch-224-cb-8-e91-08a0DRh6Kkrov6OkXtbwQ0Uu0I.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/481/path---ebooks-marketing-mgt-title-page-592-d8f-Otl7PMqxo8h1sWMnm3pSEdO1D0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/499/path---ebooks-marketing-mgt-ch-121-3-f-6-375-64bAIhrvQGsDGpZxc4TA95hsoKY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/512/path---ebooks-mba-market-marketing-ch-003-393-8db-uSYQkkyAE8hp3e4RXnJrg99NU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/515/path---ebooks-marketing-mgt-ch-067-1-a-1-9b4-HsoQR5l1YWCJxTTZM8rRX7FzQoM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/540/path---ebooks-marketing-mgt-ch-207-40-f-3c6-osMHXGogi8USJ4u13lDWqC7JXJY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/549/path---ebooks-marketing-mgt-ch-027-b-8-a-c7d-T9vwVOcaonv7vafgEuqChBEF5k.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/550/path---ebooks-marketing-mgt-ch-194-376-6b1-QOaPBM1OFARskjjk5hDTuBEx0MQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/568/path---ebooks-mba-market-marketing-ch-005-b-56-fd0-ve0uYN0DjNA7lTWeQ7NveZfU3lM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/571/path---ebooks-marketing-mgt-ch-164-fb-5-258-i8Vc9TDr5D0gYOwrMS4AYR76s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/577/path---ebooks-marketing-mgt-ch-147-75-c-956-edTUymCp9QAWcmhbx3dvxyHaF0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/581/path---ebooks-marketing-mgt-ch-001-083-22c-OwCC7t09QchJX3XS4ak2RuKa7A.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/598/path---ebooks-mba-market-marketing-ch-008-e-9-f-add-MmDRwpgW4rNfqdHCy3e7J3rzM.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/622/path---ebooks-mba-market-marketing-ch-010-d-96-6ba-mmT0naNrSIP5pIPDusogzSsByI.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/628/path---ebooks-marketing-mgt-ch-219-349-b16-yuESERI5dd5SjUxOahYhBZDekDg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/629/path---ebooks-marketing-mgt-ch-073-0-da-567-0OIvMzl7Co82xhh6yuJSsL08M.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/630/path---ebooks-marketing-mgt-ch-221-649-13f-g4HMTzWGAwPrHzfJnYBadNnvjM8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/640/path---ebooks-mba-market-marketing-ch-009-224-4ba-tPnz8553WIkKbJuiHt4K5lTqhbs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/649/path---ebooks-marketing-mgt-ch-222-7-d-1-044-nJQtvVfjsb9J57jjZNfUowhQIQE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/705/path---ebooks-marketing-mgt-ch-196-2-b-4-0ea-ZAdP5lPdiQK57zZ2qlkkld5qCs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/733/path---ebooks-marketing-mgt-ch-214-58-e-0b9-9ooEM83BHhtwWf8tTAiEZagx3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/742/path---ebooks-marketing-mgt-ch-184-9-a-2-77c-hRyx1JYvZqF9MEZVaew7ex0qNE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/771/path---ebooks-marketing-mgt-ch-057-6-a-0-619-geN5ahSFKnFIksXtszZNMbuXRaU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/775/path---ebooks-mba-market-marketing-ch-002-c-3-c-1c7-jaQ2TAEOSy6TIA1fnIuihT2g.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/798/path---ebooks-marketing-mgt-ch-210-070-73c-3ESEYUehaCSO32czRZQZSJ6HTSQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/802/path---ebooks-mba-market-marketing-ch-007-dce-f1f-OlZN54gzKRkWQicvBZRe1MJVkc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/835/path---ebooks-mba-market-marketing-ch-004-1-919-0ca-KMqcRxbQVMKG0biMKRsJrfxMIk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/837/path---ebooks-mba-market-marketing-ch-011-75-a-42a-kJpCqaO3lvxamK5igNlYkzm5M4A.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/842/path---ebooks-marketing-mgt-ch-020-4-d-2-b0e-gjnwEEynulDOUsaklp0gOSeGg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/879/path---ebooks-marketing-mgt-ch-174-5-b-2-f3a-f4viqwc0NmQ5oaz4Rlt7PaLfqWk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/880/path---ebooks-marketing-mgt-ch-122-b-43-7e1-7sdlsFHOfyIwZGlUZcJo3TtTxwg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/881/path---ebooks-marketing-mgt-ch-226-f-9-f-d00-j0vEOQViIPCOTJwfCVzYyQO2GT4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/885/path---ebooks-marketing-mgt-ch-206-ae-7-344-I5ZcDSJy912O2ra3e1ggsx5yUQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/887/path---ebooks-marketing-mgt-ch-106-cf-7-17c-ovyzrmAEysd7qd2idKTXrYUXOU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/909/path---ebooks-marketing-mgt-ch-043-221-0a3-zcUgfQ1UJOb923fK6Zp6DM9rg9E.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/912/path---ebooks-marketing-mgt-ch-098-a-6-f-14d-KDzxSAkvsJ07SKXro13vEPPt5pQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/916/path---ebooks-marketing-mgt-ch-201-e-57-229-JbLE4e8ZPBUgy0R7IsBDHbpfs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/921/path---ebooks-marketing-mgt-ch-036-232-c45-kFHnufy6G5aF4fE8p0w4LKq6Cw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/923/path---ebooks-marketing-mgt-ch-028-c-65-3f8-OnUyEH36rpKvSglnr3Hp66joGw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/928/path---ebooks-marketing-mgt-ch-058-d-30-ed7-jYByBbtxGkltWbkF1WHWwVqg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/93/path---ebooks-marketing-mgt-ch-225-2-ac-9c2-Qsfy1AtkuqxXROsCpP2JSAEFvQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/935/path---ebooks-marketing-mgt-ch-202-778-4e3-C4XYEZfOmjtE6q7JLEQd1EodmFY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/944/path---ebooks-marketing-mgt-ch-099-354-085-qkgzCTpPHjQylTHOJ1aQv3VtiY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/945/path---ebooks-marketing-mgt-ch-209-b-94-b41-IiqFRrCp8xPQWloUhCXCkVhubEU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/962/path---ebooks-marketing-mgt-ch-198-0-e-1-1fc-sE6He31RXUQ66uy7mrw0igFBTD0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/973/path---ebooks-marketing-mgt-ch-215-6-f-6-ace-qgo0dK97jXv4rPTqbZk7HgMLxc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/984/path---ebooks-marketing-mgt-ch-228-843-a07-Sb4tdsImgPcKmjwjb0nbFCoN9Q.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d/985/path---ebooks-marketing-mgt-ch-140-99-f-66d-Eh2IJVRFE32SKZYVsJhgQgQsE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/063f5/file13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/0b121/file13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/1c864/file13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/1ed7e/file13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/3a072/file13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/4dd9a/file13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/74922/file13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/a23fd/file13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/a5a3c/file13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d15a267d6ada4987a65d17f7b15e1e46/f1ac9/file13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/034ef/customer-discovery-rev1-1024x809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/3e515/customer-discovery-rev1-1024x809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/59fd5/customer-discovery-rev1-1024x809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/5e27a/customer-discovery-rev1-1024x809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/6f324/customer-discovery-rev1-1024x809.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/9c1cd/customer-discovery-rev1-1024x809.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/bc0ed/customer-discovery-rev1-1024x809.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/d19d2/customer-discovery-rev1-1024x809.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/d1e75/customer-discovery-rev1-1024x809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d1c1a7b0e35613ba234f8087cc9beb98/e5b2b/customer-discovery-rev1-1024x809.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/063f5/file14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/0b121/file14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/1c864/file14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/1ed7e/file14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/3a072/file14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/4dd9a/file14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/74922/file14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/a23fd/file14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/a5a3c/file14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d27f89d60264debcd7fb6dc2aff9ed19/f1ac9/file14.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/063f5/file19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/0b121/file19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/1c864/file19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/1ed7e/file19.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/3a072/file19.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/4dd9a/file19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/74922/file19.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/a23fd/file19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/a5a3c/file19.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d31fe7fb76e516fd811421e739e1b980/f1ac9/file19.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/063f5/file1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/0b121/file1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/3a072/file1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/4dd9a/file1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/74922/file1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/7b28a/file1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/a23fd/file1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/a5a3c/file1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/c673a/file1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d484c45181290de768a74e5dc0325720/f1ac9/file1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/063f5/file18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/0b121/file18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/1c864/file18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/1ed7e/file18.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/3a072/file18.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/4dd9a/file18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/74922/file18.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/a23fd/file18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/a5a3c/file18.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/d83a45a7474fdd9e16d42ef128b00e85/f1ac9/file18.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/063f5/file6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/0b121/file6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/1c864/file6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/1ed7e/file6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/3a072/file6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/4dd9a/file6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/74922/file6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/a23fd/file6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/a5a3c/file6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/df8c964130b5225d783d92157b1e69a4/f1ac9/file6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/063f5/file20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/0b121/file20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/1c864/file20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/1ed7e/file20.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/3a072/file20.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/4dd9a/file20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/74922/file20.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/a23fd/file20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/a5a3c/file20.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e40bc36138318a70a060900cc45bd99a/f1ac9/file20.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/063f5/file8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/0b121/file8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/1c864/file8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/1ed7e/file8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/3a072/file8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/4dd9a/file8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/74922/file8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/a23fd/file8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/a5a3c/file8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/e869eb3530800213c8b9e595f724ce75/f1ac9/file8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/063f5/file15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/0b121/file15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/1c864/file15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/1ed7e/file15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/3a072/file15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/4dd9a/file15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/74922/file15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/a23fd/file15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/a5a3c/file15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/ebb28a5ed0502c75a4672e70eb7ee080/f1ac9/file15.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/063f5/file11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/0b121/file11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/1c864/file11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/1ed7e/file11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/3a072/file11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/4dd9a/file11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/74922/file11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/a23fd/file11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/a5a3c/file11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f39e0ca29b91bd70f699ce627c522876/f1ac9/file11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/063f5/file4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/0b121/file4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/1c864/file4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/1ed7e/file4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/3a072/file4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/4dd9a/file4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/74922/file4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/a23fd/file4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/a5a3c/file4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/f88bedbcc428d52fe58ae87a125ef98b/f1ac9/file4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/034ef/marketing_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/27248/marketing_message.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/2d385/marketing_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/59fd5/marketing_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/5e27a/marketing_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/9c1cd/marketing_message.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/bc0ed/marketing_message.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/d19d2/marketing_message.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/d1e75/marketing_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fa12a5d68447a80aa7434dd132676338/e5b2b/marketing_message.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-runtime-bb4d23c605d6ca12c5fe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack-runtime-bb4d23c605d6ca12c5fe.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/How_will_you_distribute_your_product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/How_will_you_distribute_your_product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/How_will_you_price_your_product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/How_will_you_price_your_product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/What_are_you_selling_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/What_are_you_selling_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/What_value_do_you_provide_your_customers_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/What_value_do_you_provide_your_customers_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/Who_are_you_selling_to_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/Who_are_you_selling_to_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/a-simple-marketing-plan-for-startups_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/a-simple-marketing-plan-for-startups_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/blanks-customer-discovery-method-part-1-the-customer-development-model-in-value-proposition_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/blanks-customer-discovery-method-part-1-the-customer-development-model-in-value-proposition_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/business-models_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/business-models_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/buyer-motivation-what-moves-your-target-customers-to-purchase-your-product_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/buyer-motivation-what-moves-your-target-customers-to-purchase-your-product_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/buyer-personas_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/buyer-personas_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/competitive-differentiation_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/competitive-differentiation_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/competitive-strategies-in-operational-excellence-customer-intimacy-and-product-leadership_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/competitive-strategies-in-operational-excellence-customer-intimacy-and-product-leadership_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/deciding-which-market-problems-to-solve_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/deciding-which-market-problems-to-solve_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/defining-your-competitive-edge_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/defining-your-competitive-edge_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/determining-the-product-release_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/determining-the-product-release_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/developing-your-value-proposition-an-overview-of-customer-discovery_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/developing-your-value-proposition-an-overview-of-customer-discovery_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/elements-of-a-products-value-proposition-functional-self-expressive-and-emotional-benefits_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/elements-of-a-products-value-proposition-functional-self-expressive-and-emotional-benefits_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-market-problems_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-market-problems_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-target-customer-segments-to-focus-your-marketing-resources_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-target-customer-segments-to-focus-your-marketing-resources_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/identifying-target-customers-for-a-social-enterprise_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/identifying-target-customers-for-a-social-enterprise_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/inputs-to-product-roadmaps_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/inputs-to-product-roadmaps_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/interviewing-potential-users_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/interviewing-potential-users_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/intro-to-product-roadmaps-date-based-theme-based-and-technology_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/intro-to-product-roadmaps-date-based-theme-based-and-technology_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/marketing-communication-to-early-adopters-of-technology-products_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/marketing-communication-to-early-adopters-of-technology-products_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/marketing-strategy-for-startup-success-identifying-and-understanding-your-target-customer-and-market-segments_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/marketing-strategy-for-startup-success-identifying-and-understanding-your-target-customer-and-market-segments_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/positioning-creating-an-image-of-your-product-in-your-target-customers-mind_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/positioning-creating-an-image-of-your-product-in-your-target-customers-mind_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/prioritizing-your-product-roadmap_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/prioritizing-your-product-roadmap_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/product-positioning-and-positioning-your-startup-customer-validation-stage_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/product-positioning-and-positioning-your-startup-customer-validation-stage_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/product-strategy-setting-your-strategic-vision-for-product-offerings_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/product-strategy-setting-your-strategic-vision-for-product-offerings_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/strategic-planning-product-differentiation-strategy-and-market-type_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/strategic-planning-product-differentiation-strategy-and-market-type_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/strategy-statement-articulating-your-competitive-advantage-objectives-and-scope_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/strategy-statement-articulating-your-competitive-advantage-objectives-and-scope_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/successful-market-communication-across-the-chasm-and-in-the-bowling-alley_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/successful-market-communication-across-the-chasm-and-in-the-bowling-alley_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/technology-adoption-lifecycle-talc_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/technology-adoption-lifecycle-talc_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-customer-development-model-cdm-product-development-and-technology-startups_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-customer-development-model-cdm-product-development-and-technology-startups_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-four-types-of-market-market-maturity-where-does-your-startups-product-belong_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-four-types-of-market-market-maturity-where-does-your-startups-product-belong_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-marketing-mix-in-marketing-strategy-product-price-place-and-promotion_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-marketing-mix-in-marketing-strategy-product-price-place-and-promotion_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/the-mdsc-market-development-strategy-checklist-providing-strategic-direction-for-startups-go-to-market-programs_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/the-mdsc-market-development-strategy-checklist-providing-strategic-direction-for-startups-go-to-market-programs_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/thought-leadership-as-a-tech-startup-strategy_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/thought-leadership-as-a-tech-startup-strategy_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/understanding-the-cost-of-product-requirements_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/understanding-the-cost-of-product-requirements_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/user-personas_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/user-personas_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/using-your-product-roadmap-effectively_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/using-your-product-roadmap-effectively_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/validating-inputs-to-product-roadmaps_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/validating-inputs-to-product-roadmaps_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/value-proposition-a-reflection-of-the-relationship-between-your-customer-and-brand_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/value-proposition-a-reflection-of-the-relationship-between-your-customer-and-brand_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/your-marketing-message-a-tech-startups-key-tool-to-reach-target-customers_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/your-marketing-message-a-tech-startups-key-tool-to-reach-target-customers_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/your-tech-product-pricing-and-product-positioning-in-the-marketing-mix_zh_CN/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/your-tech-product-pricing-and-product-positioning-in-the-marketing-mix_zh_CN/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.stats.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,6 +604,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -46,7 +616,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,6 +654,7 @@
       <workItem from="1555494454691" duration="2338000" />
       <workItem from="1555585558236" duration="7734000" />
       <workItem from="1555666891452" duration="880000" />
+      <workItem from="1555924344655" duration="1777000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1553068557977</created>
@@ -345,16 +915,30 @@
       <option name="project" value="LOCAL" />
       <updated>1555664869904</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update ebooks index and content">
+      <created>1555924477417</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1555924477417</updated>
+    </task>
+    <task id="LOCAL-00039" summary="level up ebooks">
+      <created>1555927752088</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1555927752088</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23418000" />
+    <option name="totallyTimeSpent" value="25195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4133477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41980624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -391,7 +975,8 @@
     <MESSAGE value="clear ebook content and insert table index" />
     <MESSAGE value="bugfix for global chinese search and update head meta info in each MK documents" />
     <MESSAGE value="update ebooks index and content" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ebooks index and content" />
+    <MESSAGE value="level up ebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="level up ebooks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md" />
