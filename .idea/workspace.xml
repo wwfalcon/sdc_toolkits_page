@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e62daff-459d-4255-81e5-6867268b49da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +26,7 @@
   <component name="ProjectId" id="1PRqNWjHk5WIh7EnfLk8vyGjmx1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -71,6 +71,7 @@
       <workItem from="1557472128127" duration="13000" />
       <workItem from="1558074850744" duration="877000" />
       <workItem from="1565847218901" duration="584000" />
+      <workItem from="1566972143140" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1553068557977</created>
@@ -394,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558074906224</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="add ebook: focus_the_future_of_your_company_depends_on_it">
+      <created>1566972219795</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1566972219795</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +413,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -427,6 +437,7 @@
     <MESSAGE value="add ebooks_the_fifth_discipline" />
     <MESSAGE value="add gitbooks" />
     <MESSAGE value="add ebook: i_know_what_he_want_to_read" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ebook: i_know_what_he_want_to_read" />
+    <MESSAGE value="add ebook: focus_the_future_of_your_company_depends_on_it" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ebook: focus_the_future_of_your_company_depends_on_it" />
   </component>
 </project>
