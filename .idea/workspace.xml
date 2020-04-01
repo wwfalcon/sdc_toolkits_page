@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e62daff-459d-4255-81e5-6867268b49da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,26 +24,22 @@
     <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="1PRqNWjHk5WIh7EnfLk8vyGjmx1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,6 +68,10 @@
       <workItem from="1558074850744" duration="877000" />
       <workItem from="1565847218901" duration="584000" />
       <workItem from="1566972143140" duration="754000" />
+      <workItem from="1567151965130" duration="518000" />
+      <workItem from="1567494144270" duration="536000" />
+      <workItem from="1567582380833" duration="673000" />
+      <workItem from="1583457724457" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1553068557977</created>
@@ -402,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566972219795</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="update local gitlab server ip">
+      <created>1567152017923</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1567152017923</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add ebook index: leananalytics">
+      <created>1583457924350</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1583457924350</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,6 +438,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="fix link by ```gatsby build --prefix-paths```" />
     <MESSAGE value="revert ebook content" />
@@ -438,6 +453,18 @@
     <MESSAGE value="add gitbooks" />
     <MESSAGE value="add ebook: i_know_what_he_want_to_read" />
     <MESSAGE value="add ebook: focus_the_future_of_your_company_depends_on_it" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ebook: focus_the_future_of_your_company_depends_on_it" />
+    <MESSAGE value="update local gitlab server ip" />
+    <MESSAGE value="add ebook index: leananalytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ebook index: leananalytics" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="25" y="115" key="CommitChangelistDialog2" timestamp="1583457892602">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="25" y="115" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1583457892602" />
+    <state x="360" y="149" key="Vcs.Push.Dialog.v2" timestamp="1583457929994">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="360" y="149" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1583457929994" />
   </component>
 </project>
